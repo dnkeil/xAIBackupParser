@@ -42,7 +42,7 @@ each chunk marked like [Chunk 1/1: Starts 2002-10-13 03:13:27, Ends 2002-10-14 2
 ## Output Format
 Each line is timestamped:
 ```
-[2002-10-13 03:13:37] [Audio] HUMAN     : Open the pod bay doors, grok
+[2002-10-13 03:13:37] [Audio] HUMAN     : Open the pod bay doors, Grok.
 [2002-10-13 03:13:37] [Audio] ASSISTANT : I'm sorry, Dave. I'm afraid I can't do that.
 ```
 
